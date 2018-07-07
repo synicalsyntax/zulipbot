@@ -12,7 +12,6 @@
   "dependencies": {
     "@octokit/rest": "^15.9.4",
     "express": "~4.16.3",
-    "node-rsa": "^1.0.0",
     "snekfetch": "^4.0.4"
   },
   "devDependencies": {

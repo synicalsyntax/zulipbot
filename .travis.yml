@@ -7,6 +7,6 @@ notifications:
   email: false
   webhooks:
     urls:
-    - https://zulip.org/zulipbot/travis
+    - https://smee.io/zulipbot
     on_success: always
     on_failure: always
